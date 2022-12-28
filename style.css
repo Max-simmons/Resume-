@@ -6,15 +6,29 @@
 .header{
   border:2px solid black; 
   text-align:center
+  font-size: 13px 
+}
+    
+.profile{
+  font-size:13px;
+  text-align: left
+}
+    
+.internships{
+  text-align: left
+}
+.experience{
+  text-align: left 
 }
 
-.info{
-  font-size:13px;
-    
+.education{
+  text-align: left 
 }
-.profile{
-  font-size:13px; 
+
+img{
+  width: 200px;
 }
+
 h3{
   color: #051006; 
   font-size:18px;
